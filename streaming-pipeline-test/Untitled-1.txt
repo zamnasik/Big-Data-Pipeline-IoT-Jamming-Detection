@@ -1,0 +1,8 @@
+Hydra v9.1 (c) 2023 by van Hauser/THC & David Maciejak
+
+[DATA] attacking ssh://192.168.20.211:22/
+[22][ssh] host: 192.168.20.211   login: admin   password: admin123
+[STATUS] attack finished
+
+
+http://192.168.20.211 [200 OK] Apache[2.4.29], PHP[7.2.24], Country[GB], HTML5, Ubuntu, HTTPServer[Apache]
